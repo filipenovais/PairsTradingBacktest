@@ -3,7 +3,7 @@
 ## Personal Project
 
 ### Year
-2020
+2021
 
 ### Overview
 This project offers a comprehensive tool for backtesting pairs trading strategies. Users can download stock ticker data from Yahoo Finance, analyze correlations between pairs, and evaluate the effectiveness of their trading strategies over selected periods. The system allows for detailed configuration, including the selection of Z-score thresholds, strategy start and end dates, as well as a historical start date for preliminary testing.
