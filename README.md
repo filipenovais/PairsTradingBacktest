@@ -21,4 +21,4 @@ The tool is designed to facilitate the empirical testing of pairs trading strate
 ### How It Works
 Users begin by downloading historical stock data for their chosen pairs via Yahoo Finance. They then proceed to analyze the correlation between these pairs and set parameters such as the Z-score threshold and the testing period (including a historical start date for initial analysis). The system calculates key performance metrics for the strategy over the selected period and enables users to compare the strategy's ROI% against a benchmark buy-and-hold strategy, providing a comprehensive view of the strategy's effectiveness.
 
-![alt text](https://github.com/filipenovais/PairsTradingTesting/blob/master/backtest_roi.png)
+![alt text](https://github.com/filipenovais/PairsTradingTesting/blob/main/backtest_roi.png)
