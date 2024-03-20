@@ -3,7 +3,7 @@
 ## Personal Project
 
 ### Year
-2020
+2021
 
 ### Overview
 This project offers a comprehensive tool for backtesting pairs trading strategies. Users can download stock ticker data from Yahoo Finance, analyze correlations between pairs, and evaluate the effectiveness of their trading strategies over selected periods. The system allows for detailed configuration, including the selection of Z-score thresholds, strategy start and end dates, as well as a historical start date for preliminary testing.
@@ -21,4 +21,4 @@ The tool is designed to facilitate the empirical testing of pairs trading strate
 ### How It Works
 Users begin by downloading historical stock data for their chosen pairs via Yahoo Finance. They then proceed to analyze the correlation between these pairs and set parameters such as the Z-score threshold and the testing period (including a historical start date for initial analysis). The system calculates key performance metrics for the strategy over the selected period and enables users to compare the strategy's ROI% against a benchmark buy-and-hold strategy, providing a comprehensive view of the strategy's effectiveness.
 
-![alt text](https://github.com/filipenovais/PairsTradingTesting/blob/master/backtest_roi.png)
+![alt text](https://github.com/filipenovais/PairsTradingTesting/blob/main/backtest_roi.png)
